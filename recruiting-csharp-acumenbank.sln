@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acumen.Bank", "Acumen.Bank\Acumen.Bank.csproj", "{BE2CBAA5-3E93-45C7-A568-D5839DADC4F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acumen.Bank.Account", "Acumen.Bank.Account\Acumen.Bank.Account.csproj", "{EAD341FE-5C55-4A10-9130-9D2B663F4ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2CBAA5-3E93-45C7-A568-D5839DADC4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2CBAA5-3E93-45C7-A568-D5839DADC4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2CBAA5-3E93-45C7-A568-D5839DADC4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2CBAA5-3E93-45C7-A568-D5839DADC4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD341FE-5C55-4A10-9130-9D2B663F4ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD341FE-5C55-4A10-9130-9D2B663F4ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD341FE-5C55-4A10-9130-9D2B663F4ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD341FE-5C55-4A10-9130-9D2B663F4ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
